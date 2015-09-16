@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 沙彌十戒法并威儀
+#+DATE: 2015-08-30 20:43:30.453062
+#+PROPERTY: JUAN 0
